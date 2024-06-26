@@ -3,29 +3,29 @@ cff-version: 1.0.1
 message: Please cite this software using these metadata.
 title: 
 authors:
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
+  - family-names: Pereira Junior
+    given-names: Arlindo Sergio
+  - family-names: Batista Siqueira
+    given-names: Gabriel Lima
+  - family-names: de Carvalho Vilela
+    given-names: Joaquim Guilherem
+  - family-names: Pazzutti
+    given-names: Arthur
+  - family-names: Sena
+    given-names: Vinicius
   - family-names: 
     given-names:
   - name-suffix: Professor
     affiliation: PUC Minas
-    family-names: 
-    given-names: 
+    family-names: Carneiro
+    given-names: Rommel
   - name-suffix: Professor
     affiliation: PUC Minas
-    family-names: 
-    given-names: 
+    family-names: Alves
+    given-names: Simone
 keywords:
-  - 
-  - 
+  - Neurodivergentes
+  - Ensino
 repository-code: 
 license: CC-BY-4.0
 version: 1.0.0
